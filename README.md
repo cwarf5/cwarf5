@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I’m Creed — a Computer Science professional.
+IT Analyst & CS Grad focused on Python / C# backend development and healthcare systems.
 <!--
 **cwarf5/cwarf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
