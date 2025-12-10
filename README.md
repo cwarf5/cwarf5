@@ -1,14 +1,5 @@
 ## Hi there 👋
 Hi, I’m Creed — a Computer Science professional.
-
-
-[![Creed's GitHub stats](https://github-readme-stats.vercel.app/api?username=cwarf5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cwarf5&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!--
 **cwarf5/cwarf5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
