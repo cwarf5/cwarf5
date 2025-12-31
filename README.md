@@ -20,7 +20,7 @@ I'm currently strengthening my engineering portfolio with real-world projects, a
 ### 🚀 What I'm Working On
 - Building a full-stack budgeting dashboard (TypeScript + Python backend)
 - A C#/.NET API project to showcase backend skills
-- A series of LinkedIn project breakdowns documenting my journey
+- {NAME PENDING} - A self-hostable, open-source web app that gamifies strength and hypertrophy training using ranked muscle-group progression, recovery readiness, streaks, PR tracking, and insights.
 
 ### 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/creed-warf-3bbb24223
