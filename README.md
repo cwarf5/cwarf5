@@ -34,7 +34,7 @@ a collection of **self-hosted, privacy-first tools** designed to stay out of you
 <td valign="top">
 
 **Founder / Maintainer**  
-🔗 https://github.com/SlateWorks
+🔗 https://github.com/Slate-Works
 
 Slate Works is my open-source initiative for software that is:
 
