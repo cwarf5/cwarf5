@@ -13,43 +13,12 @@ I care about **control**, **privacy**, and **systems that don’t lie to you**.
 
 ## Current Focus
 
-I’m building open-source software under **Slate Works** —  
-a collection of **self-hosted, privacy-first tools** designed to stay out of your way.
-
----
-
-## Slate Works
-
-<table>
-<tr>
-<td width="96" valign="top">
-
-<img
-  src="https://cdn.discordapp.com/attachments/1457126141994340428/1457131320684708045/saltelogo.png?ex=695ae2cb&is=6959914b&hm=628bb94df7b550fb40cc10cec512e4e6452fa8b6cde4f47396be831bf2514cf1&"
-  alt="Slate Works logo"
-  width="72"
-/>
-
-</td>
-<td valign="top">
-
-**Founder / Maintainer**  
-🔗 https://github.com/Slate-Works
-
-Slate Works is my open-source initiative for software that is:
+I am dedicated to building **self-hosted, privacy-first tools** that stay out of your way. My goal is to create software that is:
 
 - **Self-hosted by default**
 - **Free and open source**
-- **No telemetry**
-- **No data harvesting**
+- **No telemetry or data harvesting**
 - **No cloud lock-in**
-
-Just tools that do their job and stay out of your way.
-
-</td>
-</tr>
-</table>
-
 
 ---
 
